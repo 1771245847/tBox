@@ -60,3 +60,7 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/
 	"recommend": "1" 
 	
 	recommend为1时为推荐源，点击影片时会跳转搜索页面
+
+ # tBox App
+
+ https://www.123865.com/s/PeHqVv-L5P5H
