@@ -54,7 +54,7 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/
     "flagable": 0, //是否需要vip或播放器解析播放 1=需要  0=不需要（youku、qq、iqiyi等需要解析，如网页嗅探视频的话部分网站已内置了vip解析）
     "filterPlayFileKeywords": "", //嗅探网页时过滤的视频链接关键字，过滤掉的链接不会取过来（多个关键字用,逗号隔开）
     "keepPlayFileKeywords": "" //嗅探时采用的视频链接关键字，app已支持大部分视频链接的嗅探，一般不需要特别设置（多个关键字用,逗号隔开）
-    "selectedPlayer": "1" //指定播放器  0=推荐播放器  1=系统播放器，如留空将使用设置中选择的播放器
+    "selectedPlayer": "0" //指定播放器 0=推荐播放器 1=系统播放器，如留空将使用设置中选择的播放器
 }
 ```
 
