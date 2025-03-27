@@ -39,6 +39,15 @@ https://ghfast.top/https://raw.githubusercontent.com/1771245847/tBox/refs/heads/
 
 - **设置建议**：在播放视频时，缓冲越大播放越流畅, 一般设置128M就够用了，最大可以设置256，但运行内存也会增加（该设置仅针对推荐播放器）
 
+## 配置类型说明
+- `type=0`：苹果cms影视对应的xml格式
+- `type=1`：苹果cms影视对应的json格式
+- `type=2`：tvbox对应的xpath规则
+- `type=3`：xbiu规则
+- `type=4`：xbiubiu规则
+- `type=5`：js爬虫脚本
+- `type=6`：soup规则
+
 ## 配置示例
 ```json
 {
