@@ -181,7 +181,7 @@ function headersToString(headers) {
 }
 
 const cheerio = createCheerio();
-const webSite = 'http://www.qiyoudy4.com';
+const webSite = 'http://www.qiyoudy5.com';
 const headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36', };
 
 
@@ -363,18 +363,6 @@ async function searchContent(keyword) {
     console.log(JSON.stringify(backData));
     return JSON.stringify(backData);
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 //Cheerio
